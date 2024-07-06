@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zeming Xu 徐泽茗"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
