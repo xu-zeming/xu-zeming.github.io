@@ -18,4 +18,5 @@ Conferences
 * (2024, September, with Markus Steinbach). Temporality and causality in asymmetric conjunction. Poster at Sinn und Bedeutung 29, Noto, Italy.
 * (2024, July). Conjunctive and additive sentence coordinators. Form and Meaning of Coordination, Göttingen, Germany. 
 * (2023, September). Structural and semantic sensitivity of conjunctive coordinators. Online talk at the 2nd Conference on Biolinguistics and Language Acquisition, Beijing, China.
+* (2021, June, with Oumeng Lu). Eine Vergleichende Studie der Deixis der ersten Person in chinesischen und deutschen linguistischen Arbeiten [A comparative study of the deixis of the first person in Chinese and German linguistic papers]. Internationales Studierenden-Symposium zu Sprache, Technik und Kultur, Beijing, China.
 
