@@ -5,18 +5,15 @@ permalink: /presentations/
 author_profile: false
 ---
 
-Invited talks
--
+## Conferences
+* (with Markus Steinbach, 2024, September 26-27). *Reversed temporal and causal relations in conjunctive coordination* [Poster presentation]. 5th Experimental Pragmatics in Italy (xPrag.it), Venice, Italy.
+* (with Markus Steinbach, 2024, September 17-19). *Temporality and causality in asymmetric conjunction* [Poster presentation]. Sinn und Bedeutung 29, Noto, Italy.
+* (2024, July 4-6). *Conjunctive and additive sentence coordinators* [Conference presentation]. Form and Meaning of Coordination, Göttingen, Germany.
+* (2023, September 23). *Structural and semantic sensitivity of conjunctive coordinators* [Conference presentation]. 2nd Conference on Biolinguistics and Language Acquisition, Beijing, China.
+* (with Oumeng Lu, 2021, June 12-13). *Eine Vergleichende Studie der Deixis der ersten Person in chinesischen und deutschen linguistischen Arbeiten* [Conference presentation]. Internationales Studierenden-Symposium zu Sprache, Technik und Kultur, Beijing, China. 
 
-* (2023, October). Temporality and asymmetric conjunction. Research colloquium, Beijing Foreign Studies University. 
-* (2023, April). Experimental methods in linguistics. Research colloquium, Beijing Foreign Studies University. 
-* (2022, April). Pragmatic enrichments of Chinese GFL learners in understanding German coordinated sentences. Research colloquium, Zhejiang University. 
+## Invited talks
 
-Conferences
--
-* (2024, September, with Markus Steinbach). Reversed temporal and causal relations in conjunctive coordination. Poster at the 5th Experimental Pragmatics in Italy Conference (xPrag.it), Venice, Italy. 
-* (2024, September, with Markus Steinbach). Temporality and causality in asymmetric conjunction. Poster at Sinn und Bedeutung 29, Noto, Italy.
-* (2024, July). Conjunctive and additive sentence coordinators. Form and Meaning of Coordination, Göttingen, Germany. 
-* (2023, September). Structural and semantic sensitivity of conjunctive coordinators. Online talk at the 2nd Conference on Biolinguistics and Language Acquisition, Beijing, China.
-* (2021, June, with Oumeng Lu). Eine Vergleichende Studie der Deixis der ersten Person in chinesischen und deutschen linguistischen Arbeiten [A comparative study of the deixis of the first person in Chinese and German linguistic papers]. Internationales Studierenden-Symposium zu Sprache, Technik und Kultur, Beijing, China.
-
+* (2023, October 30). *Temporality and asymmetric conjunction* [Colloquium talk]. School of German Studies, Beijing Foreign Studies University.
+* (2023, April 25). *Experimental methods in linguistics* [Colloquium talk]. School of German Studies, Beijing Foreign Studies University.
+* (2022, April 18). *Pragmatic enrichments of Chinese GFL learners in understanding German coordinated sentences* [Colloquium talk]. Institute of German Studies, Zhejiang University.
