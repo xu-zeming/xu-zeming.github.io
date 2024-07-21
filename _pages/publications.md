@@ -7,7 +7,7 @@ author_profile: false
 
 Xu, Z., & Ge, N. (2024). Pragmatische Anreicherung der chinesischen DaF‐Lernenden bei der Verarbeitung von koordinierten Sätzen [Pragmatic enrichment in the processing of coordinated sentences by Chinese learners of German]. *Deutsche Sprache*, (2), 170–191.
 
-Xu, Z., & Zhan, X. (2024). Das Markenimage von Huawei in deutschen Medien 2009–2023. Eine linguistische Imageanalyse [Huawei's brand image in German media 2009–2023. A Linguistic Image Analysis]. *Interkulturelles Forum der deutsch‐chinesischen Kommunikation*. https://doi.org/10.1515/ifdck‐2023‐0015
+Xu, Z., & Zhan, X. (2024). Das Markenimage von Huawei in deutschen Medien 2009–2023. Eine linguistische Imageanalyse [Huawei's brand image in German media 2009–2023. A Linguistic Image Analysis]. *Interkulturelles Forum der deutsch‐chinesischen Kommunikation*. [https://doi.org/10.1515/ifdck‐2023-0015](https://doi.org/10.1515/ifdck-2023-0015)
 
 Xu, Z. (徐泽茗), & Ge, N. (葛囡囡). (2022). 德语话语分析的语料库转向 [The corpus linguistic turn of German discourse analysis]. *语料库语言学*, *9*(1), 111–123.
 
