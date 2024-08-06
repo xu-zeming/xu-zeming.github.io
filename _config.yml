@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Zeming Xu"
+title                    : "Xu Zeming"
 title_separator          : "-"
-name                     : &name "Zeming Xu"
+name                     : &name "Xu Zeming"
 description              : &description "PhD student at the university of Göttingen"
 url                      : https://xu-zeming.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Xu.jpg"
-  name             : "Zeming Xu 徐泽茗"
+  name             : "Xu Zeming 徐泽茗"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in German linguistics"
   location         : # "Earth"
