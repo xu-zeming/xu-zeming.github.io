@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: false
 ---
 
-## Conferences
+## Peer-reviewed Conferences
 <!-- * (with Markus Steinbach, 2024, September 26-27). *Reversed temporal and causal relations in conjunctive coordination* [Poster presentation]. 5th Experimental Pragmatics in Italy (xPrag.it), Venice, Italy.
 * (with Markus Steinbach, 2024, September 17-19). *Temporality and causality in asymmetric conjunction* [Poster presentation]. Sinn und Bedeutung 29, Noto, Italy. -->
 * (2024, July 4-6). *Conjunctive and additive sentence coordinators* [Conference presentation]. Form and Meaning of Coordination, Göttingen, Germany.
