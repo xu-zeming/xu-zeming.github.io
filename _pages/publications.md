@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: false
 ---
 
-Xu, Z., & Steinbach, M. (in press). Temporality and Causality in Asymmetric Coordination. *Journal of Pragmatics*.
-
 Xu, Z., Liu, J., & Fan, L. (in press). Affective Norms for German as a Second Language (ANGL2). *Behavior Research Methods*. (Data set available at [https://osf.io/r4528/](https://osf.io/r4528/))
 
 Xu, Z. (in press). Asymmetric conjunction and the semantics-pragmatics interface. *Linguistische Berichte*. 
+
+Xu, Z., & Steinbach, M. (2024). Temporality and causality in asymmetric coordination. *Journal of Pragmatics*, *233*, 35-50. [https://doi.org/10.1016/j.pragma.2024.09.006](https://doi.org/10.1016/j.pragma.2024.09.006)
 
 Xu, Z., & Ge, N. (2024). Pragmatische Anreicherung der chinesischen DaF‐Lernenden bei der Verarbeitung von koordinierten Sätzen [Pragmatic enrichment in the processing of coordinated sentences by Chinese learners of German]. *Deutsche Sprache*, *52*(2), 170–191. [https://doi.org/10.37307/j.1868-775X.2024.02.05](https://doi.org/10.37307/j.1868-775X.2024.02.05)
 
