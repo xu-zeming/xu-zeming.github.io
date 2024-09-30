@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a PhD student in German linguistics at the University of Göttingen.
 
-Xu 徐 is my family name and Zeming 泽茗 is my given name. 
+Xu 徐 /ɕy˧˥/ is my family name and Zeming 泽茗 /tsɤ˧˥ miŋ˧˥/ is my given name. 
 
 Research interests
 -
