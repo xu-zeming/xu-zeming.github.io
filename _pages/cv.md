@@ -16,6 +16,10 @@ Education
 * 2015-2019: BA in German, **Beijing Foreign Studies University**
   + 2017-2018: Exchange student, **University of Göttingen**
 
+### Summer Schools
+* 2024: DGfS Summer School
+*	2019: International Summer School of German Language and Culture at Heidelberg University
+
 Experience 
 ---
 * 2021–2022: Linguistics Intern, AI-Lab, **ByteDance**
