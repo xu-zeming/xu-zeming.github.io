@@ -7,7 +7,7 @@ author_profile: false
 
 Xu, Zeming, Liu, Jia, & Fan, Lin (in press). Affective Norms for German as a Second Language (ANGL2). *Behavior Research Methods*. (Data set available at [https://osf.io/r4528/](https://osf.io/r4528/))
 
-Xu, Zeming (2024). Asymmetric conjunction and the semantics-pragmatics interface. *Linguistische Berichte*, *280*, 381-408. 
+Xu, Zeming (2024). Asymmetric conjunction and the semantics-pragmatics interface. *Linguistische Berichte*, *280*, 381-408. [https://doi.org/10.46771/9783967694017_1](https://doi.org/10.46771/9783967694017_1)
 
 Xu, Zeming, & Steinbach, Markus (2024). Temporality and causality in asymmetric conjunction. *Journal of Pragmatics*, *233*, 35-50. [https://doi.org/10.1016/j.pragma.2024.09.006](https://doi.org/10.1016/j.pragma.2024.09.006)
 
