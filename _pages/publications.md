@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-Xu, Zeming, Liu, Jia, & Fan, Lin (2025). Affective Norms for German as a Second Language (ANGL2). *Behavior Research Methods*, *57*, Article 6. [https://doi.org/10.3758/s13428-024-02539-5](https://doi.org/10.3758/s13428-024-02539-5) 
+Xu, Zeming, Liu, Jia, & Fan, Lin (2025). Affective Norms for German as a Second Language (ANGL2). *Behavior Research Methods*, *57*(1), Article 6. [https://doi.org/10.3758/s13428-024-02539-5](https://doi.org/10.3758/s13428-024-02539-5) 
 
 Xu, Zeming (2024). Asymmetric conjunction and the semantics-pragmatics interface. *Linguistische Berichte*, *280*, 381-408. [https://doi.org/10.46771/9783967694017_1](https://doi.org/10.46771/9783967694017_1)
 
