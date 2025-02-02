@@ -15,6 +15,6 @@ Xu, Zeming, & Ge, Nannan (2024). Pragmatische Anreicherung der chinesischen DaF�
 
 Xu, Zeming, & Zhan, Xia (2023). Das Markenimage von Huawei in deutschen Medien 2009–2023. Eine linguistische Imageanalyse. *Interkulturelles Forum der deutsch‐chinesischen Kommunikation*, *3*(2), 220-242. [https://doi.org/10.1515/ifdck-2023-0015](https://doi.org/10.1515/ifdck-2023-0015)
 
-Xu, Zeming, (徐泽茗) & Ge, Nannan (葛囡囡) (2022). 德语话语分析的语料库转向 [The corpus linguistic turn of German discourse analysis]. *语料库语言学*, *9*(1), 111–123.
+Xu, Zeming (徐泽茗), & Ge, Nannan (葛囡囡) (2022). 德语话语分析的语料库转向 [The corpus linguistic turn of German discourse analysis]. *语料库语言学*, *9*(1), 111–123.
 
 Lu, Oumeng, **Xu, Zeming**, & Zhang, Wei (2022). Eine vergleichende Studie der Deiktika der ersten Person in chinesischen und deutschen linguistischen Arbeiten. In Y. Zhang & M. Szurawitzki (Eds.), *Sprache, Technik und Kultur. Akten des Internationalen Studierenden-Symposions am Beijing Institute of Technology Juni 2021* (pp. 227–240). Königshausen & Neumann. 
