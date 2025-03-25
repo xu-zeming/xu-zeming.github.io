@@ -19,10 +19,6 @@ Education
 ### Summer Schools
 * August 2024: DGfS Summer School
 *	August 2019: International Summer School of German Language and Culture at Heidelberg University
-<!-- 
-Academic Services
----
-*  -->
 
 Work Experiences
 ---
