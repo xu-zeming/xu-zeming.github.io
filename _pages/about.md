@@ -22,7 +22,7 @@ Education
 * Septermber 2015 - June 2019: BA in German, **Beijing Foreign Studies University**
   + October 2017 - July 2018: Exchange student, **University of Göttingen**
 
-#### Summer Schools
+### Summer Schools
   + August 2024: DGfS Summer School
   +	August 2019: International Summer School of German Language and Culture at Heidelberg University
 
