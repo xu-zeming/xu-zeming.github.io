@@ -26,11 +26,11 @@ Education
   + August 2024: DGfS Summer School
   +	August 2019: International Summer School of German Language and Culture at Heidelberg University
 
-Ad-hoc reviewing
+Service 
 ---
-*Behavior Research Methods*, *ConSOLE*
+Ad-hoc reviewing for *Behavior Research Methods*, *ConSOLE*
 
-Work Experiences
+Professional experience
 ---
 * November 2021 – June 2022: Linguistics Intern, AI-Lab, **ByteDance**
 
