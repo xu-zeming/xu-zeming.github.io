@@ -14,7 +14,7 @@ author_profile: false
 
 ## Invited talks
 
-* (2025, March 5). *Temporality and causality in asymmetric conjunction* [Colloquium talk]. Institute of German Studies, Zhejiang University.
+* (2025, February 25). *Asymmetric conjunction at the syntax-pragmatics interface* [Colloquium talk]. Institute of German Studies, Zhejiang University.
 * (2023, October 30). *Temporality and asymmetric conjunction* [Colloquium talk]. School of German Studies, Beijing Foreign Studies University.
 * (2023, April 25). *Experimental methods in linguistics* [Colloquium talk]. School of German Studies, Beijing Foreign Studies University.
 * (2022, April 18). *Pragmatic enrichments of Chinese GFL learners in understanding German coordinated sentences* [Colloquium talk]. Institute of German Studies, Zhejiang University.
