@@ -6,22 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research associate at the University of Göttingen.
+I am a research assistant at the University of Göttingen. My main research interests are syntax-pragmatics interface and experimental linguistics.
 
 Xu 徐 /ɕy˧˥/ is my family name and Zeming 泽茗 /tsɤ˧˥ miŋ˧˥/ is my given name. 
 
-Research interests
----
-* Syntax-pragmatics interface 
-* Experimental linguistics
-
-Positions 
---- 
-* July 2025 - : Assistant professor at the School of International Studies, **Zhejiang University**
-
 Education
 ---
-* October 2022 - June 2025: PhD in German Linguistics, **University of Göttingen**
+* October 2022 - June 2025: PhD in German Linguistics, **University of Göttingen** (defence in April 2025)
 * Septermber 2019 - June 2022: MA in German Linguistics, **Beijing Foreign Studies University**
 * Septermber 2015 - June 2019: BA in German, **Beijing Foreign Studies University**
   + October 2017 - July 2018: Exchange student, **University of Göttingen**
@@ -37,9 +28,8 @@ Professional experience
 ---
 * November 2021 – June 2022: Linguistics Intern, AI-Lab, **ByteDance**
 
-Languages 
+Language
 ---
 * Chinese (native)
 * German (fluent)
 * English (fluent, IELTS 8.5)
-
