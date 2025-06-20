@@ -17,10 +17,6 @@ Curriculum vitae
 * 2015 - 2022: MA in German Linguistics, **Beijing Foreign Studies University**
 * 2015 - 2019: BA in German, **Beijing Foreign Studies University**
 
-Professional experience
----
-* 2021 – 2022: Linguistics intern, AI-Lab, **ByteDance**
-
 Service 
 ---
 Ad-hoc reviewing for *Behavior Research Methods*, *ConSOLE*
