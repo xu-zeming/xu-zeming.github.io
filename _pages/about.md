@@ -12,18 +12,17 @@ Xu 徐 /ɕy˧˥/ is my family name and Zeming 泽茗 /tsɤ˧˥ miŋ˧˥/ is my g
 
 Education
 ---
-* October 2022 - June 2025: PhD in German Linguistics, **University of Göttingen**
-* Septermber 2019 - June 2022: MA in German Linguistics, **Beijing Foreign Studies University**
-* Septermber 2015 - June 2019: BA in German, **Beijing Foreign Studies University**
+* 2022 - 2025: PhD in German Linguistics, **University of Göttingen**
+* 2019 - 2022: MA in German Linguistics, **Beijing Foreign Studies University**
+* 2015 - 2019: BA in German, **Beijing Foreign Studies University**
 
 Academic positions 
 ---
 * From July 2025: Assistant professor, School of International Studies, **Zhejiang University**
-* April 2025 - July 2025: Research assistant, Department of German Philology, **University of Göttingen**
 
 Professional experience
 ---
-* November 2021 – June 2022: Linguistics intern, AI-Lab, **ByteDance**
+* 2021 - 2022: Linguistics intern, AI-Lab, **ByteDance**
 
 Service 
 ---
