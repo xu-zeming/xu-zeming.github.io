@@ -14,7 +14,11 @@ Curriculum vitae
 ---
 * From July 2025: Assistant professor, School of International Studies, **Zhejiang University**
 * October 2022 - June 2025: PhD in German Linguistics, **University of Göttingen**
+<<<<<<< HEAD
 * September 2015 - June 2022: MA in German Linguistics, **Beijing Foreign Studies University**
+=======
+* September 2019 - June 2022: MA in German Linguistics, **Beijing Foreign Studies University**
+>>>>>>> eefe49115e6b4b250e0dd0f1085a603d776a0b7a
 * September 2015 - June 2019: BA in German, **Beijing Foreign Studies University**
 
 Service 
