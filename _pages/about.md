@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research assistant at the University of Göttingen. My main research interests are syntax-pragmatics interface and experimental linguistics.
+I am a assistant professor of German linguistics at the Zhejiang University. My main research interests are syntax-pragmatics interface and experimental linguistics.
 
 Xu 徐 /ɕy˧˥/ is my family name and Zeming 泽茗 /tsɤ˧˥ miŋ˧˥/ is my given name. 
 
