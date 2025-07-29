@@ -4,9 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
-Liu, Jia, Fan, Lin, & **Xu, Zeming** (in press). Affective and psycholinguistic norms for 1,200 two-character Chinese words. *International Journal of Applied Linguistics*.
 
 Li, Fuxuan, Ge, Nannan, & **Xu, Zeming** (in press). Die Verarbeitungsmechanismen vom Plural der Substantive bei chinesischen Deutschlernenden. *Muttersprache*. 
+
+Liu, Jia, Fan, Lin, Zhang, Xiaokun & **Xu, Zeming** (in press). Affective and psycholinguistic norms for 1,200 two-character Chinese words. *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12829](https://doi.org/10.1111/ijal.12829)
 
 Xu, Zeming (in press). The syntactic structure of asymmetric conjunction. *Glottotheory*. [https://doi.org/10.1515/glot-2025-2005](https://doi.org/10.1515/glot-2025-2005)
                     
