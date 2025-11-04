@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 {% include base_path %}
+* 2026 Spring: German [Language course], Zhejiang University
 
 * 2025 Autumn: German [Language course], Zhejiang University
 
