@@ -9,7 +9,7 @@ Li, Fuxuan, Ge, Nannan, & **Xu, Zeming** (in press). Die Verarbeitungsmechanisme
 
 Liu, Jia, Fan, Lin, Zhang, Xiaokun, & **Xu, Zeming** (in press). Affective and psycholinguistic norms for 1,200 two-character Chinese words. *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12829](https://doi.org/10.1111/ijal.12829)
 
-Xu, Zeming (in press). The syntactic structure of asymmetric conjunction. *Glottotheory*. [https://doi.org/10.1515/glot-2025-2005](https://doi.org/10.1515/glot-2025-2005)
+Xu, Zeming (2025). The syntactic structure of asymmetric conjunction. *Glottotheory*, *16*(1), 17-33. [https://doi.org/10.1515/glot-2025-2005](https://doi.org/10.1515/glot-2025-2005)
                     
 Xu, Zeming, Liu, Jia, & Fan, Lin (2025). Affective Norms for German as a Second Language (ANGL2). *Behavior Research Methods*, *57*(1), Article 6. [https://doi.org/10.3758/s13428-024-02539-5](https://doi.org/10.3758/s13428-024-02539-5) 
 
