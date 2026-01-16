@@ -8,7 +8,7 @@ author_profile: false
 {% include base_path %}
 * 2026 Spring: Studies in German language and literature [Doctoral seminar], Zhejiang University
 
-* 2025 Autumn: German [Language course], Zhejiang University
+* 2025 Autumn - Winter: German [Language course], Zhejiang University
 
 * 2025 Summer: Experimentelle Pragmatik [Master's seminar], University of Göttingen
 
