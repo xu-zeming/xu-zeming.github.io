@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: false
 ---
 
+Xu, Zeming (in press). Subject gaps in coordination at the syntax-pragmatics interface. *Journal of Linguistics*.
+
 Li, Fuxuan, Ge, Nannan, & **Xu, Zeming** (in press). Die Verarbeitungsmechanismen vom Plural der Substantive bei chinesischen Deutschlernenden. *Muttersprache*. 
 
 Liu, Jia, Fan, Lin, Zhang, Xiaokun, & **Xu, Zeming** (in press). Affective and psycholinguistic norms for 1,200 two-character Chinese words. *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12829](https://doi.org/10.1111/ijal.12829)
