@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 {% include base_path %}
-* 2026 Spring: Studies in German language and literature [Doctoral seminar], Zhejiang University
+* 2026 Spring: (with <span style="font-variant:small-caps;">Li</span> Yuan) Studies in German language and literature [Doctoral seminar], Zhejiang University
 
 * 2025 Autumn - Winter: German [Language course], Zhejiang University
 
