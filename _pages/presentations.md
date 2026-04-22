@@ -14,6 +14,7 @@ author_profile: false
 * (with <span style="font-variant:small-caps;">Lu</span> Oumeng, 2021, June 12-13). *Eine Vergleichende Studie der Deixis der ersten Person in chinesischen und deutschen linguistischen Arbeiten* [Conference presentation]. Internationales Studierenden-Symposium zu Sprache, Technik und Kultur, Beijing, China. 
 
 ## Invited talks
+* (2026, April 17). *Large language models and human language* [Colloquium talk]. Qiushi College, Zhejiang University. 
 * (2025, July 04). *Wörtliche Bedeutung von deutschen und chinesischen Satzkoordinatoren und asymmetrische Koordination* [Colloquium talk]. Chinesisch-deutsches linguistisches Kolloquium, Technischen Universität Berlin.
 * (2025, February 25). *Asymmetric conjunction at the syntax-pragmatics interface* [Colloquium talk]. Institute of German Studies, Zhejiang University.
 * (2023, October 30). *Temporality and asymmetric conjunction* [Colloquium talk]. School of German Studies, Beijing Foreign Studies University.

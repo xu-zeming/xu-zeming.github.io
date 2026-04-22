@@ -11,7 +11,7 @@ author_profile: false
     * German as the first foreign language [Language course]
 
 * 2025 Autumn, Zhejiang University
-    * Comprehensive German III [Language course]
+    * (with Mara Gröner and Weijie Ring Zhao) Comprehensive German III [Language course]
 
 * 2025 Summer, University of Göttingen
     * Experimentelle Pragmatik [Master's seminar]
