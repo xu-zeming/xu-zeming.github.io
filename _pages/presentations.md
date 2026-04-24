@@ -15,7 +15,7 @@ author_profile: false
 
 ## Invited talks
 * (2026, April 17). *Large language models and human language* [Colloquium talk]. Qiushi College, Zhejiang University. 
-* (2025, July 04). *Wörtliche Bedeutung von deutschen und chinesischen Satzkoordinatoren und asymmetrische Koordination* [Colloquium talk]. Chinesisch-deutsches linguistisches Kolloquium, Technischen Universität Berlin.
+* (2025, July 4). *Wörtliche Bedeutung von deutschen und chinesischen Satzkoordinatoren und asymmetrische Koordination* [Colloquium talk]. Chinesisch-deutsches linguistisches Kolloquium, Technische Universität Berlin.
 * (2025, February 25). *Asymmetric conjunction at the syntax-pragmatics interface* [Colloquium talk]. Institute of German Studies, Zhejiang University.
 * (2023, October 30). *Temporality and asymmetric conjunction* [Colloquium talk]. School of German Studies, Beijing Foreign Studies University.
 * (2023, April 25). *Experimental methods in linguistics* [Colloquium talk]. School of German Studies, Beijing Foreign Studies University.
