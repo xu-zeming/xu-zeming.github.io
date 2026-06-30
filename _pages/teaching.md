@@ -6,6 +6,10 @@ author_profile: false
 ---
 
 {% include base_path %}
+* 2026 Autumn, Zhejiang University
+    * (with Mara Gröner) Comprehensive German III [Language course]
+    * Translation Theory and Practice for German [Seminar]
+
 * 2026 Spring, Zhejiang University
     * (with <span style="font-variant:small-caps;">Li</span> Yuan) Studies in German language and literature [Doctoral seminar]
     * German as the first foreign language [Language course]
