@@ -7,8 +7,13 @@ author_profile: false
 
 {% include base_path %}
 
+* 2026 Autumn, Zhejiang University
+    * History of science and technology in Germany [Seminar]
+    * German interpreting [Language course]
+    * (with <span style="font-variant:small-caps;">Yu</span> Yin) Comprehensive German III [Language course]
+
 * 2026 Spring, Zhejiang University
-    * (with <span style="font-variant:small-caps;">Li</span> Yuan) Studies in German language and literature [Doctoral seminar]
+    * Studies in German language and literature [Doctoral seminar]
     * German as the first foreign language [Language course]
 
 * 2025 Autumn, Zhejiang University
