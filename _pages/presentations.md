@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 ## Peer-reviewed conference presentations
+* (2026, October 25). Topikprominenz in asymmetrischen Koordinationen aus der Perspektive des deutsch-chinesischen Vergleichs [Conference presentation]. Dritte hochkarätige Fachtagung zur interkulturellen Kommunikationsforschung in der Germanistik an chinesischen Universitäten, Beijing, China.
 * (2026, June 29-30). *The universal* and? *Discourse semantics of the Chinese sentence coordinator* érqiě [Conference presentation]. 5th Symposium on Formal Approaches to Meaning in Chinese, Shanghai, China.
 * (2025, November 8-9). *Subject gaps in coordination: A unified syntactic account* [Conference presentation]. International Conference on Formal Linguistics 2025, Guangzhou, China.
 * (with Markus Steinbach, 2024, September 26-27). *Reversed temporal and causal relations in conjunctive coordination* [Poster presentation]. 5th Experimental Pragmatics in Italy (xPrag.it), Venice, Italy.
