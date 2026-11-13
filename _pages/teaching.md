@@ -8,8 +8,8 @@ author_profile: false
 {% include base_path %}
 
 * 2026 Autumn, Zhejiang University
-    * History of science and technology in Germany [Seminar]
-    * Theory and practice of German translation [Lecture]
+    * Theory and practice of German translation [Seminar]
+    * History of science and technology in Germany [Lecture]
     * (with <span style="font-variant:small-caps;">Yu</span> Yin) Comprehensive German III [Language course]
 
 * 2026 Spring, Zhejiang University
