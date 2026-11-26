@@ -19,7 +19,7 @@ Curriculum vitae
 
 Service 
 ---
-Ad-hoc reviewing for *Behavior Research Methods*, *ConSOLE*, *Language and Cognition*. 
+Ad-hoc reviewing for *Behavior Research Methods*, *ConSOLE*, *Language and Cognition*, *Natural Language & Linguistic Theory*.  
 
 Language
 ---
